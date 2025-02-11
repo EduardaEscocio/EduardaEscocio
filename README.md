@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **University Projects**
 
-- 🌱 I’m currently learning **Frameworks, UI/UX designer**
+- 🌱 I’m currently learning **UI/UX designer, CyberSecurity**
 
 - 📫 How to reach me **dudaescocio@gmail.com**
 
